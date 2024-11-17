@@ -1,0 +1,7 @@
+{
+  "name": "bananagrams",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
